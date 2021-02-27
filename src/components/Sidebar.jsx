@@ -67,7 +67,7 @@ const NewMessage = styled.div`
   align-items: center;
   border-radius: 50%;
   margin-right: 20px;
-  cursor: pointer;
+  cursor: pointer; 
 `;
 const MainChannels = styled.div`
   padding-top: 20px;
@@ -79,7 +79,7 @@ const MainChannelItem = styled.div`
   height: 28px;
   align-items: center;
   padding-left: 19px;
-  corsor: pointer;
+  cursor: pointer; 
   :hover {
     background: #350d36;
   }
@@ -108,7 +108,7 @@ const Channel = styled.div`
   height: 28px;
   
   padding-left: 19px;
-  corsor: pointer;
+  cursor: pointer; 
   :hover {
     background: #350d36;
   }
